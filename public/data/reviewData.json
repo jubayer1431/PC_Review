@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 3,
+    "name":"Kristen Stewart",
+    "img": "ks.jpeg"
+  },
+  {
+    "_id": "5c8a34ed14eb5c17645c9109",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 5,
+    "name":"Emma Watson",
+    "img": "emma.jpg"
+  },
+  {
+    "_id": "5c8a34ed14eb5c17645c9107",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 4,
+    "name":"Selena Gomez",
+    "img": "selena.jpg"
+  },
+  {
+    "_id": "5c8a34ed14eb5c17645c9106",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 5,
+    "name":"Taylor Swift",
+    "img": "taylor.jpg"
+  },
+  {
+    "_id": "5c8a34ed14eb5c17645c9105",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 3,
+    "name":"Angelina Jolie",
+    "img": "aj.png"
+  },
+  {
+    "_id": "5c8a34ed14eb5c17645c9104",
+    "review": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+    "rating": 4,
+    "name":"Ariana Grande",
+    "img": "arana.jpeg"
+  }
+]
